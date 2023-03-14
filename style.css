@@ -1,7 +1,6 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
 
-p{
+
+*{
     font-family: 'Outfit', sans-serif; 
     font-size: 15px;
     margin: 0;
@@ -40,7 +39,7 @@ body{
     transform: translate(-50%,-50%);
 }
 
-.title{
+.container h1{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     width: 180px;
@@ -48,7 +47,7 @@ body{
     margin-bottom: 10px;
 }
 
-.description{
+.container p{
     color:hsl(220, 15%, 55%) ;
     width: 200px;
     font-size: 12px;
